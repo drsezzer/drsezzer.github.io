@@ -37,21 +37,20 @@ title: Dr Sarah Mercer
 
 ### Cyber Security:
 
-* [Generative AI in Cyber Security](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity), Assessing impact on current and future malicious software, June 2024.  <i class="fa-solid fa-file-pdf"></i> [Formal PDF](docs/cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf). <br> <i class="fa-solid fa-pen-ruler"></i> [Final (unedited) Draft](raw_malicious_genai.md)
+* [Generative AI in Cyber Security](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity), Assessing impact on current and future malicious software, June 2024. <br> 
+<i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[Formal PDF](docs/cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf) | <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Final (unedited) Draft](raw_malicious_genai.md)
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team.</p>
 
 ### CETaS papers:
 
-* [Evaluating Malicious Generative AI Capabilities](https://cetas.turing.ac.uk/publications/evaluating-malicious-generative-ai-capabilities), Understanding inflection points in risk, July 2024.
-
-* [The Rapid Rise of Generative AI](https://cetas.turing.ac.uk/publications/rapid-rise-generative-ai), Assessing risks to safety and security, December 2023.
-
 * [Securing the UK's Research Eco-system](https://cetas.turing.ac.uk/), coming soon.
-
+* [Evaluating Malicious Generative AI Capabilities](https://cetas.turing.ac.uk/publications/evaluating-malicious-generative-ai-capabilities), Understanding inflection points in risk, July 2024.
+* [The Rapid Rise of Generative AI](https://cetas.turing.ac.uk/publications/rapid-rise-generative-ai), Assessing risks to safety and security, December 2023.
 
 ## Current Projects:
 
 * Psychometric testing for generative agents.  Is it a good idea to use generative agents as replacement humans in social science?
 * Willowbrook baseline configuration; as an evaluation mechanism for new LLM models.
+* Unhappy Willowbrook :sad-face: - Can generative agents act upon their emotions?  [Research Proposal](rp_unhappy_willowbrook.md)
