@@ -1,6 +1,22 @@
 ---
 title: Dr Sarah Mercer
 ---
+<div class="sm_Parent">
+    <div class="sm_child1">
+        <h1>Geeksfo</h1>
+        <center>
+            <h1>Left</h1>
+        </center>
+    </div>
+    <div class="sm_child2">
+        <h1>rgeeks</h1>
+        <center>
+            <h1>RIGHT</h1>
+        </center>
+    </div>
+</div>
+
+<!--
 <div class="sm_wrap">
   <div class="sm_left_col">
   left
@@ -9,7 +25,7 @@ title: Dr Sarah Mercer
   right
   </div>
 </div>
-
+-->
 
 <!--
 <table width="100%">
@@ -22,13 +38,14 @@ title: Dr Sarah Mercer
 
 <hr>
 
-<div align="center">
+<p align="center">
+<br>
 <i class="fa-brands fa-square-github"></i> <a href="https://github.com/drsezzer/drsezzer.github.io">drsezzer</a> |
 <i class="fa-brands fa-bluesky"></i> @drsezzer.bsky.social |
 <i class="fa-brands fa-square-x-twitter"></i> @FanOfJavi | 
 <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/sarah-mercer-033609273">Sarah Mercer</a> |
 <i class="fa-solid fa-envelope"></i> smercer[at]turing.ac.uk
-</div>
+</p>
 
 <hr>
 
