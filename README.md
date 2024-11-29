@@ -12,16 +12,10 @@
 </table>
 
 <div align="center">
-<i class="fa-brands fa-bluesky"></i> 
-
-@drsezzer.bsky.social |
-
-<i class="fa-brands fa-linkedin"></i> 
-
-[sarah-mercer](https://www.linkedin.com/in/sarah-mercer-033609273) |
-
-<i class="fa-brands fa-square-github"></i> drsezzer |
-
+<i class="fa-brands fa-bluesky"></i> @drsezzer.bsky.social |
+<i class="fa-brands fa-square-x-twitter"></i> @FanOfJavi | 
+<i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/sarah-mercer-033609273">Sarah Mercer</a>
+<i class="fa-brands fa-square-github"></i> drsezzer
 </div>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; The propensity of LLMs to portray humanlike behaviour fascinates me.  Since the publication of the Willowbrook report, I have continued to explore the ability of generative agents to mimic us... including their ability to maintain believable persona's, their capacity to make human like mistakes, and their (in)ability to become annoyed!</p>
