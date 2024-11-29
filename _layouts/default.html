@@ -17,38 +17,23 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     {% include head-custom.html %}
-    <style type="text/css">
-      #sm_wrap {
-         width:100%;
-         margin:0 auto;
+    <style>
+      .sm_Parent {
+          display: flex;
+          flex-direction: row;
       }
-      #sm_left_col {
-         float:left;
-         width:10%;
-      }
-      #sm_right_col {
-         width:90%;
-         float:right;
-      }
-      </style>
-          <style>
-            .sm_Parent {
-                display: flex;
-                flex-direction: row;
-            }
-    
-            .sm_child1 {
-                width: 110px;
-            }
-    
-            .sm_child2 {
-                width: auto;
-                margin-left: 12px;
-                margin-right: 12px;
-                vertical-align: middle;
-            }
-        </style>
 
+      .sm_child1 {
+          min-width: 100px;
+      }
+
+      .sm_child2 {
+          width: auto;
+          margin-left: 12px;
+          margin-right: 12px;
+          vertical-align: middle;
+      }
+  </style>
   </head>
   <body>
     <div class="wrapper">
