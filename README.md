@@ -1,6 +1,6 @@
 <p>Hi, I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.  Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team.</p>
 
-![willowbrook village](https://drsezzer.github.io/willowbrook1.png)
+<p align=center>![willowbrook village](https://drsezzer.github.io/willowbrook1.png)</p>
 
 <p>The propensity of LLMs to portray humanlike behaviour fascinates me.  Since the publication of the Willowbrook report, I have continued to explore the ability of generative agents to mimic us... including their ability to maintain believable persona's, their capacity to make human like mistakes, and their (in)ability to become annoyed!</p>
 
