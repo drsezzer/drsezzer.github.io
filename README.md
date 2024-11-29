@@ -9,12 +9,12 @@
 
 <hr>
 
-<div id="wrap">
-<p align="center">
+<div align="center">
+<p>
+<i class="fa-brands fa-square-github"></i> <a href="https://github.com/drsezzer/drsezzer.github.io">drsezzer</a> |
 <i class="fa-brands fa-bluesky"></i> @drsezzer.bsky.social |
 <i class="fa-brands fa-square-x-twitter"></i> @FanOfJavi | 
 <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/sarah-mercer-033609273">Sarah Mercer</a> |
-<i class="fa-brands fa-square-github"></i> drsezzer 
 <br>
 <i class="fa-solid fa-envelope"></i> smercer[at]turing.ac.uk
 </p>
