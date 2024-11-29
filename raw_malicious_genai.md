@@ -2,8 +2,9 @@
 title: Generative AI in Cyber Security - Assessing its Impact on Current and Future Malicious Software
 ---
 
-> Dr Sarah Mercer & <a href="https://cetas.turing.ac.uk/about/our-team/prof-tim-watson">Prof Tim Watson</a>, formally published 10th June 2024.<br>
-<i>This is the unedited (final draft) version of the paper, written with a more technical voice.  The polished version of the paper can be found [here](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity).</i>
+### Dr Sarah Mercer & <a href="https://cetas.turing.ac.uk/about/our-team/prof-tim-watson">Prof Tim Watson</a>, formally published 10th June 2024.
+
+> <i>This is the unedited (final draft) version of the paper, written with a more technical voice.  The formally published version of the paper can be found [here](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity).</i>
 
 The potential of generative artificial intelligence (GenAI) to create malicious software is sparking varied reactions within the cybersecurity community.  Opinions are split between those who fear this technology could lead to sophisticated novel threats and those who argue it merely automates the assembly of existing malicious code found on the internet.  This debate highlights the growing complexity of GenAI's role in cybersecurity, specifically its ability to create malicious software.  Drawing on academic research and grey literature, this paper seeks to offer a balanced exploration of both the capabilities and limitations of GenAI, contributing to a more nuanced understanding of its impact.
 

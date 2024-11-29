@@ -6,37 +6,17 @@ title: Dr Sarah Mercer
       <img src="https://drsezzer.github.io/profile_pic.png" />
     </div>
     <div class="sm_child2">
-      <p>Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.</p>
+      <p valign="center">Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.</p>
     </div>
 </div>
 
-<!--
-<div class="sm_wrap">
-  <div class="sm_left_col">
-  left
-  </div>
-  <div class="sm_right_col">
-  right
-  </div>
-</div>
--->
-
-<!--
-<table width="100%">
-<tr>
-<td width="100"><img src="https://drsezzer.github.io/profile_pic.png" /></td>
-<td><p>Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.</p></td>
-</tr>
-</table>
--->
-
 <hr>
-<p valign="center" halign="center">
-<i class="fa-brands fa-square-github"></i> <a href="https://github.com/drsezzer/drsezzer.github.io">drsezzer</a> |
-<i class="fa-brands fa-bluesky"></i> @drsezzer.bsky.social |
-<i class="fa-brands fa-square-x-twitter"></i> @FanOfJavi | 
-<i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/sarah-mercer-033609273">Sarah Mercer</a> |
-<i class="fa-solid fa-envelope"></i> smercer[at]turing.ac.uk
+<p valign="center" align="center">
+<i class="fa-brands fa-square-github"></i>&nbsp;<a href="https://github.com/drsezzer/drsezzer.github.io">drsezzer</a> |
+<i class="fa-brands fa-bluesky"></i>&nbsp;<a href="https://bsky.app/profile/drsezzer.bsky.social">@drsezzer.bsky.social</a> |
+<i class="fa-brands fa-square-x-twitter"></i>&nbsp;<a href="https://twitter.com/fanofjavi">@FanOfJavi</a> | 
+<i class="fa-brands fa-linkedin"></i>&nbsp;<a href="https://www.linkedin.com/in/sarah-mercer-033609273">Sarah Mercer</a> |
+<i class="fa-solid fa-envelope"></i>&nbsp;smercer[at]turing.ac.uk
 </p>
 <hr>
 
