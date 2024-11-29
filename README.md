@@ -3,14 +3,13 @@
         <img src="https://drsezzer.github.io/profile_pic.png" />
     </div>
     <div id="sm_right_col">
-        Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.  Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team.
+        <p>Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.  Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team.</p>
     </div>
 </div>
 
 <hr>
 
-<div>
-
+<div id="wrap">
 <p align="center">
 <i class="fa-brands fa-bluesky"></i> @drsezzer.bsky.social |
 <i class="fa-brands fa-square-x-twitter"></i> @FanOfJavi | 
