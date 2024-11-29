@@ -1,5 +1,5 @@
 ---
-title: Generative AI in Cyber Security: Assessing its Impact on Current and Future Malicious Software
+title: Generative AI in Cyber Security - Assessing its Impact on Current and Future Malicious Software
 ---
 
 > Dr Sarah Mercer & <a href="https://cetas.turing.ac.uk/about/our-team/prof-tim-watson">Prof Tim Watson</a>, formally published 10th June 2024.<br>

@@ -31,16 +31,13 @@ title: Dr Sarah Mercer
 -->
 
 <hr>
-
-<p align="center">
-<br>
+<p valign="center">
 <i class="fa-brands fa-square-github"></i> <a href="https://github.com/drsezzer/drsezzer.github.io">drsezzer</a> |
 <i class="fa-brands fa-bluesky"></i> @drsezzer.bsky.social |
 <i class="fa-brands fa-square-x-twitter"></i> @FanOfJavi | 
 <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/sarah-mercer-033609273">Sarah Mercer</a> |
 <i class="fa-solid fa-envelope"></i> smercer[at]turing.ac.uk
 </p>
-
 <hr>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; The propensity of LLMs to portray humanlike behaviour fascinates me.  Since the publication of the Willowbrook report, I have continued to explore the ability of generative agents to mimic us... including their ability to maintain believable persona's, their capacity to make human like mistakes, and their (in)ability to get angry!</p>
