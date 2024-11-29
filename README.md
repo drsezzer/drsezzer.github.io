@@ -33,7 +33,7 @@
 * [Welcome to Willowbrook](https://cetas.turing.ac.uk/publications/welcome-willowbrook), The simulated society built by generative agents, December 2023.  <i>Not to be confused with <a href="https://www.technologyreview.com/2024/11/27/1107377/a-minecraft-town-of-ai-characters-made-friends-invented-jobs-and-spread-religion/">Meadowbrook</a>!</i> :thinking:
 
 ### Cyber Security:
-* [Generative AI in Cyber Security](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity), Assessing impact on current and future malicious software, June 2024.  <i class="fa-solid fa-file-pdf"></i> [Formal PDF](docs/cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf), <i class="fa-solid fa-pen-ruler"></i> [Final (unedited) Draft](raw_malicious_genai.md)
+* [Generative AI in Cyber Security](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity), Assessing impact on current and future malicious software, June 2024.  <i class="fa-solid fa-file-pdf"></i> [Formal PDF](docs/cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf). <br> <i class="fa-solid fa-pen-ruler"></i> [Final (unedited) Draft](raw_malicious_genai.md)
 
 ### CETaS papers:
 * [Evaluating Malicious Generative AI Capabilities](https://cetas.turing.ac.uk/publications/evaluating-malicious-generative-ai-capabilities), Understanding inflection points in risk, July 2024.
