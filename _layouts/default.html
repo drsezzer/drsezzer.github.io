@@ -29,8 +29,17 @@
 
       <section>
         <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <table>
+            <tr>
+              <td>
+                <img src="https://drsezzer.github.io/profile_pic.png" />
+              </td>
+              <td>
+                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+                <p>{{ site.description | default: site.github.project_tagline }}</p>
+              </td>
+            </tr>
+          </table>
           <hr>
         </div>
 
