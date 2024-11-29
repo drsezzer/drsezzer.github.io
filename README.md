@@ -1,7 +1,7 @@
 <table>
 <tr>
     <td>
-    <img src="https://drsezzer.github.io/profile_pic.png" />
+    <img width="85" src="https://drsezzer.github.io/profile_pic.png" />
     </td>
     <td>
 <p>Hi, I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.  Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team.</p>

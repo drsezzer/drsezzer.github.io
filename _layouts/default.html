@@ -18,29 +18,12 @@
     {% include head-custom.html %}
   </head>
   <body>
-      <div id="header">
-        <nav>
-          <ul>
-          </ul>
-        </nav>
-      </div><!-- end header -->
-
     <div class="wrapper">
-
       <section>
         <div id="title">
-          <table>
-            <tr>
-              <td>
-                <img src="https://drsezzer.github.io/profile_pic.png" />
-              </td>
-              <td>
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
-                <p>{{ site.description | default: site.github.project_tagline }}</p>
-                <hr>
-              </td>
-            </tr>
-          </table>
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <hr>
         </div>
 
         {{ content }}
@@ -49,7 +32,6 @@
           <hr>
         </div>
       </section>
-
     </div>
   </body>
 </html>
