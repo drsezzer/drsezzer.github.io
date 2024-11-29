@@ -3,13 +3,11 @@ title: Dr Sarah Mercer
 ---
 <div class="sm_Parent">
     <div class="sm_child1">
-        <h1>Geeksfo</h1>
         <center>
             <img src="https://drsezzer.github.io/profile_pic.png" />
         </center>
     </div>
     <div class="sm_child2">
-        <h1>rgeeks</h1>
         <center>
             <p>Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.</p>
         </center>
