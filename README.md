@@ -1,3 +1,6 @@
+<!--
+title: Wheyhey
+-->
 <div id="sm_wrap">
     <div id="sm_left_col">
         <img src="https://drsezzer.github.io/profile_pic.png" />

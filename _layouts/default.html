@@ -36,7 +36,7 @@
     <div class="wrapper">
       <section>
         <div id="title">
-          <h1>Dr Sarah Mercer</h1>
+          <h1>{{ page.title | default: site.title }}</h1>
         </div>
         <hr>
         {{ content }}
