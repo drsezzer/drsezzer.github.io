@@ -4,11 +4,11 @@ title: Dr Sarah Mercer
 <table width="100%">
 <tr>
 <td width="100"><img src="https://drsezzer.github.io/profile_pic.png" /></td>
-<td><p>Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.  Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team.</p></td>
+<td><p>Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.</p></td>
 </tr>
 </table>
 
-<p></p>
+<hr>
 
 <div align="center">
 <i class="fa-brands fa-square-github"></i> <a href="https://github.com/drsezzer/drsezzer.github.io">drsezzer</a> |
@@ -38,6 +38,9 @@ title: Dr Sarah Mercer
 ### Cyber Security:
 
 * [Generative AI in Cyber Security](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity), Assessing impact on current and future malicious software, June 2024.  <i class="fa-solid fa-file-pdf"></i> [Formal PDF](docs/cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf). <br> <i class="fa-solid fa-pen-ruler"></i> [Final (unedited) Draft](raw_malicious_genai.md)
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp; Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team.</p>
 
 ### CETaS papers:
 
