@@ -31,7 +31,7 @@ title: Dr Sarah Mercer
 -->
 
 <hr>
-<p valign="center">
+<p valign="center" halign="center">
 <i class="fa-brands fa-square-github"></i> <a href="https://github.com/drsezzer/drsezzer.github.io">drsezzer</a> |
 <i class="fa-brands fa-bluesky"></i> @drsezzer.bsky.social |
 <i class="fa-brands fa-square-x-twitter"></i> @FanOfJavi | 
