@@ -6,21 +6,22 @@ title: Dr Sarah Mercer
       <img src="https://drsezzer.github.io/profile_pic.png" />
     </div>
     <div class="sm_child2">
-      <p valign="center">Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.</p>
+      Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.
     </div>
 </div>
 
 <hr>
 <p valign="center" align="center">
-<i class="fa-brands fa-square-github"></i>&nbsp;<a href="https://github.com/drsezzer/drsezzer.github.io">drsezzer</a> |
-<i class="fa-brands fa-bluesky"></i>&nbsp;<a href="https://bsky.app/profile/drsezzer.bsky.social">@drsezzer.bsky.social</a> |
-<i class="fa-brands fa-square-x-twitter"></i>&nbsp;<a href="https://twitter.com/fanofjavi">@FanOfJavi</a> | 
-<i class="fa-brands fa-linkedin"></i>&nbsp;<a href="https://www.linkedin.com/in/sarah-mercer-033609273">Sarah Mercer</a> |
-<i class="fa-solid fa-envelope"></i>&nbsp;smercer[at]turing.ac.uk
+<i class="fa-brands fa-square-github"></i>&nbsp;&nbsp;<a href="https://github.com/drsezzer/drsezzer.github.io">drsezzer</a> |
+<i class="fa-brands fa-bluesky"></i>&nbsp;&nbsp;<a href="https://bsky.app/profile/drsezzer.bsky.social">@drsezzer.bsky.social</a> |
+<i class="fa-brands fa-square-x-twitter"></i>&nbsp;&nbsp;<a href="https://twitter.com/fanofjavi">@FanOfJavi</a> | 
+<i class="fa-brands fa-linkedin"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sarah-mercer-033609273">Sarah Mercer</a>
+<br>
+<i class="fa-solid fa-envelope"></i>&nbsp;&nbsp;smercer[at]turing.ac.uk
 </p>
 <hr>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; The propensity of LLMs to portray humanlike behaviour fascinates me.  Since the publication of the Willowbrook report, I have continued to explore the ability of generative agents to mimic us... including their ability to maintain believable persona's, their capacity to make human like mistakes, and their (in)ability to get angry!</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; The propensity of LLMs to portray humanlike behaviour fascinates me.  Since the publication of the Willowbrook report, I have continued to explore the capacity of generative agents to mimic human behaviour... exploring their ability to maintain believable and consistent persona's, their capacity to make human-like mistakes, and their (in)ability to get angry!</p>
 
 <p align=center><img src="https://drsezzer.github.io/willowbrook1.png" /></p>
 
