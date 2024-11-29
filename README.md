@@ -7,6 +7,7 @@
         <p>Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.  Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team.</p>
     </td>
 </tr>
+</table>
 
 <hr>
 
@@ -21,7 +22,6 @@
 
 <hr>
 
-</table>
 <p align="center">
 <i class="fa-brands fa-bluesky"></i> @drsezzer.bsky.social |
 <i class="fa-brands fa-square-x-twitter"></i> @FanOfJavi | 
