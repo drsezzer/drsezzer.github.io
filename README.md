@@ -11,12 +11,11 @@
 </tr>
 </table>
 
-```
+<div align="center">
 <i class="fa-brands fa-bluesky"></i> @drsezzer.bsky.social |
 <i class="fa-brands fa-linkedin"></i> [sarah-mercer](https://www.linkedin.com/in/sarah-mercer-033609273) |
 <i class="fa-brands fa-square-github"></i> drsezzer |
-
-```
+</div>
 
 
 
