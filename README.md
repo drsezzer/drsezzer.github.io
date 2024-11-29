@@ -1,27 +1,3 @@
-<!--
-title: Wheyhey
--->
-<div id="sm_wrap">
-    <div id="sm_left_col">
-        <img src="https://drsezzer.github.io/profile_pic.png" />
-    </div>
-    <div id="sm_right_col">
-        <p>Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.  Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team.</p>
-    </div>
-</div>
-
-<hr>
-
-<p>
-<p>
-
-this 
-is
-silly  
-
-
-
-
 <table width="100%">
 <tr>
 <td width="100"><img src="https://drsezzer.github.io/profile_pic.png" /></td>
@@ -29,7 +5,6 @@ silly
 </tr>
 </table>
 
-<p>
 <p>
 
 <div align="center">
@@ -43,7 +18,9 @@ silly
 </p>
 </div>
 
+</div>
 <hr>
+<div class="wrapper">
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; The propensity of LLMs to portray humanlike behaviour fascinates me.  Since the publication of the Willowbrook report, I have continued to explore the ability of generative agents to mimic us... including their ability to maintain believable persona's, their capacity to make human like mistakes, and their (in)ability to become annoyed!</p>
 <p align=center><img src="https://drsezzer.github.io/willowbrook1.png" /></p>
