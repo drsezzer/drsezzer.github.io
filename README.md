@@ -12,6 +12,20 @@ title: Wheyhey
 
 <hr>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<table width="100%">
+<tr>
+<td width="100"><img src="https://drsezzer.github.io/profile_pic.png" /></td>
+<td><p>Hi! I'm Sarah, a Principal Researcher at The Alan Turing Institute, working at the intersection of agents and generative AI.  Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team.</p></td>
+</table>
+
+
+
 <div align="center">
 <p>
 <i class="fa-brands fa-square-github"></i> <a href="https://github.com/drsezzer/drsezzer.github.io">drsezzer</a> |
