@@ -23,7 +23,9 @@ title: Dr Sarah Mercer
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; The propensity of LLMs to portray humanlike behaviour fascinates me.  Since the publication of the Willowbrook report, I have continued to explore the capacity of generative agents to mimic human behaviour... exploring their ability to maintain believable and consistent persona's, their capacity to make human-like mistakes, and their (in)ability to get angry!</p>
 
-<p align=center><img src="https://drsezzer.github.io/willowbrook1.png" /></p>
+<p align=center><img src="https://drsezzer.github.io/willowbrook1.png" /><br>
+<small>DALLE-3 generated image of Willowbrook</small></p>
+
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; A few people have asked me what a generative agent actually is, how are they implemented and the frameworks I use... </p>
 
@@ -53,4 +55,4 @@ title: Dr Sarah Mercer
 
 * Psychometric testing for generative agents.  Is it a good idea to use generative agents as replacement humans in social science?
 * Willowbrook baseline configuration; as an evaluation mechanism for new LLM models.
-* Unhappy Willowbrook :sad-face: - Can generative agents act upon their emotions?  [Research Proposal](rp_unhappy_willowbrook.md)
+* Unhappy Willowbrook :crying_face: :angry_face: - Can generative agents act upon their emotions?  [Research Proposal](rp_unhappy_willowbrook.md)
