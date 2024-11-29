@@ -1,6 +1,5 @@
 ---
-page.title: wibble
-title: wobble
+title: Dr Sarah Mercer
 ---
 <table width="100%">
 <tr>
@@ -17,14 +16,11 @@ title: wobble
 <i class="fa-brands fa-bluesky"></i> @drsezzer.bsky.social |
 <i class="fa-brands fa-square-x-twitter"></i> @FanOfJavi | 
 <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/sarah-mercer-033609273">Sarah Mercer</a> |
-<br>
 <i class="fa-solid fa-envelope"></i> smercer[at]turing.ac.uk
 </p>
 </div>
 
-</div>
 <hr>
-<div class="wrapper">
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; The propensity of LLMs to portray humanlike behaviour fascinates me.  Since the publication of the Willowbrook report, I have continued to explore the ability of generative agents to mimic us... including their ability to maintain believable persona's, their capacity to make human like mistakes, and their (in)ability to become annoyed!</p>
 <p align=center><img src="https://drsezzer.github.io/willowbrook1.png" /></p>
