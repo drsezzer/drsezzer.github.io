@@ -1,3 +1,7 @@
+---
+page.title: wibble
+title: wobble
+---
 <table width="100%">
 <tr>
 <td width="100"><img src="https://drsezzer.github.io/profile_pic.png" /></td>
