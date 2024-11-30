@@ -23,7 +23,7 @@ title: Dr Sarah Mercer
 </p>
 <hr>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; The propensity of LLMs to portray humanlike behaviour fascinates me.  Since the publication of the Willowbrook report, I have continued to explore the capacity of generative agents to mimic human behaviour... exploring their ability to maintain believable and consistent persona's, their capacity to make human-like mistakes, and their (in)ability to get angry!</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; The propensity of LLMs to portray humanlike behaviour fascinates me.  Since the publication of the <a href="https://cetas.turing.ac.uk/publications/welcome-willowbrook">Willowbrook</a> report, I have continued to explore the capacity of generative agents to mimic human behaviour... exploring their ability to maintain believable and consistent personas, their capacity to make human-like mistakes, and their (in)ability to get angry!</p>
 
 <p align=center><img src="https://drsezzer.github.io/willowbrook1.png" /><br>
 <small>DALLE-3 generated image of Willowbrook</small></p>
@@ -65,7 +65,13 @@ title: Dr Sarah Mercer
 
 <hr>
 
-<div align="center"><small>All rights are reserved for this webpage's content, same for uploaded PDFs unless otherwise stated within the document itself. <br> (c) 2024 Sarah Mercer.</small>
+<div align="center">
+
+<small>All rights are reserved for this webpage's content, same for uploaded PDFs unless otherwise stated within the document itself. <br> (c) 2024 Sarah Mercer.</small>
+
+<hr>
+
+<small>Web site generated using <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages</a> with <a href="https://jekyllrb.com/">Jekyll</a> Theme <a href="https://github.com/pages-themes/midnight">Midnight</a> and using the <a href="https://github.com/jekyll/jemoji">jemoji</a> plugin (<a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">emoji cheat sheet</a>).</small>
 
 </div>
 
