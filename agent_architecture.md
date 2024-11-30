@@ -1,14 +1,4 @@
 ---
-title: Building Character Agents
+title: Agent architecture
 ---
-
-### Biography
-
-
-### Persona (stereotype)
-
-
-### Personality (consistency of behaviour and 'thought')
-
-
-### Character (individual)
+To be written! :cringe:
