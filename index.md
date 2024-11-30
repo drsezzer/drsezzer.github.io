@@ -28,10 +28,14 @@ title: Dr Sarah Mercer
 <p align=center><img src="https://drsezzer.github.io/willowbrook1.png" /><br>
 <small>DALLE-3 generated image of Willowbrook</small></p>
 
+<p>&nbsp;&nbsp;&nbsp;&nbsp; The Willowbrook simulation does not maintain a shared reprsentation of the agents' environment, meaning that the agents' reality is purely LLM generated (with the exception of the initial character and location descriptions).  This reality is held within each agent's memory of what they observed, did and heard. As such, any error in the way the LLM is directing the agents is maginified as the simulation progresses and the agents' memories of such inaccuracies are retained, or even acted upon.  This gives us a novel way to evaluate the influence different LLM models have on the lives of the Willowbrook residents.</p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; A few people have asked me what a generative agent actually is, how are they implemented and the frameworks I use... </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; A few people have asked me what a generative agent actually is, how they are implemented and the frameworks I use... </p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; I dont use a framework, as I am keen to get a feeling for what the LLM is able to deliver, without an additional layer of abstraction between me and the LLM.  The key to designing a good persona-agent lies in its initial biography and it's memory retention mechanism. I expand on this more [here](agent-architecture.md)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; ... I dont use a framework, as I did not want an additional layer of abstraction between me and the LLM.  The key to designing a good persona-agent lies in its initial biography and it's memory retention mechanism. I expand on this more [here](agent-architecture.md).</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp; Prior to working at the Turing, I was a researcher in Cyber Security.  The interest garnered by LLMs at the begining of last year obviously had an impact on the cyber security community.  The paper below, was my attempt to bring some evidenced thinking to the fairly polarised (at the time) debate, given my familiarity of developing LLM based applications and intuition for their strengths and weaknesses.  
+<br><i>Note: Technical readers may prefer the unedited version of the paper, as linked below</i>.</p>
 
 ## Research Publications
 
@@ -45,7 +49,7 @@ title: Dr Sarah Mercer
 <i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[Formal PDF](docs/cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf) | <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Final (unedited) Draft](raw_malicious_genai.md)
 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team, specifically Generative AI.</p>
 
 ### CETaS papers:
 
@@ -61,4 +65,6 @@ title: Dr Sarah Mercer
 
 <hr>
 
-<small>Web site generated using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), with [Jekyll](https://jekyllrb.com/) Theme [Midnight](https://github.com/pages-themes/midnight) and using the [jemoji](https://github.com/jekyll/jemoji) plugin ([emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)).</small>
+<div class="footer" align="center"><small>All rights are reserved for this webpage's content, same for uploaded PDFs unless otherwise stated within the document itself.  (c) 2024 Sarah Mercer.</small></div>
+
+<small><div class="footer" align="center">Web site generated using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), with [Jekyll](https://jekyllrb.com/) Theme [Midnight](https://github.com/pages-themes/midnight) and using the [jemoji](https://github.com/jekyll/jemoji) plugin ([emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)).</div></small>
