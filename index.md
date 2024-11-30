@@ -29,7 +29,7 @@ title: Dr Sarah Mercer
 <p align=center><img src="https://drsezzer.github.io/willowbrook1.png" /><br>
 <small>DALLE-3 generated image of Willowbrook</small></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp; Inspired by the Stanford <a href="https://hai.stanford.edu/news/computational-agents-exhibit-believable-humanlike-behavior">Smallville paper</a>, a simulation comprising 12 characters and 10 locations - including a library, cafe, farm shop, village green and various residences - was developed to further explore the capacity of generative-agents to [portray human like behaviours](layers.md)</a>.
+&nbsp;&nbsp;&nbsp;&nbsp; Inspired by the Stanford <a href="https://hai.stanford.edu/news/computational-agents-exhibit-believable-humanlike-behavior">Smallville paper</a>, a simulation comprising 12 characters and 10 locations - including a library, cafe, farm shop, village green and various residences - was developed to further explore the capacity of generative-agents to [portray human like behaviours](layers.md).
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; Unlike Smallvillle, the Willowbrook simulation does not maintain a shared reprsentation of the agents' environment, meaning that the agents' reality is purely LLM generated (with the exception of the initial character and location descriptions).  This reality is held within each agent's memory of what they observed, did and heard. As such, any error in the way the LLM is directing the agents is maginified as the simulation progresses and the agents' memories of such inaccuracies are retained, or even acted upon.  This gives us a novel way to evaluate the influence different LLM models have on the lives of the Willowbrook residents.
