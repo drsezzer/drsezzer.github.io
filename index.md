@@ -10,12 +10,14 @@ title: Dr Sarah Mercer
     </div>
 </div>
 
+<br>
+
 <hr>
 <p valign="center" align="center">
 <big>
 <i class="fa-brands fa-square-github"></i>&nbsp;&nbsp;<a href="https://github.com/drsezzer/">drsezzer</a> |
 <i class="fa-brands fa-bluesky"></i>&nbsp;&nbsp;<a href="https://bsky.app/profile/drsezzer.bsky.social">@drsezzer.bsky.social</a> |
-<i class="fa-brands fa-square-x-twitter"></i>&nbsp;&nbsp;<a href="https://twitter.com/fanofjavi">@FanOfJavi</a> | 
+<i class="fa-brands fa-square-x-twitter"></i>&nbsp;&nbsp;</big><a href="https://twitter.com/fanofjavi">@FanOfJavi</a><big> | 
 <i class="fa-brands fa-linkedin"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sarah-mercer-033609273">Sarah Mercer</a>
 <br>
 <i class="fa-solid fa-envelope"></i>&nbsp;&nbsp;smercer[at]turing.ac.uk
