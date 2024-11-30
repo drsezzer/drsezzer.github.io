@@ -66,12 +66,13 @@ title: Dr Sarah Mercer
 <hr>
 
 <div align="center">
+<small>All rights are reserved for the contents on this site (drsezzer.github.io), same for uploaded PDFs unless otherwise stated within the document itself. 
 
-<small>All rights are reserved for this webpage's content, same for uploaded PDFs unless otherwise stated within the document itself. <br> (c) 2024 Sarah Mercer.</small>
+<br> (c) 2024 Sarah Mercer.
 
-<hr>
+<br><br>Web site generated using <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages</a> with <a href="https://jekyllrb.com/">Jekyll</a> Theme <a href="https://github.com/pages-themes/midnight">Midnight</a> and using the <a href="https://github.com/jekyll/jemoji">jemoji</a> plugin (<a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">emoji cheat sheet</a>).
 
-<small>Web site generated using <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages</a> with <a href="https://jekyllrb.com/">Jekyll</a> Theme <a href="https://github.com/pages-themes/midnight">Midnight</a> and using the <a href="https://github.com/jekyll/jemoji">jemoji</a> plugin (<a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">emoji cheat sheet</a>).</small>
-
+<br><br>
+</small>
 </div>
 
