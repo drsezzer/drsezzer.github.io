@@ -9,7 +9,8 @@ title: Layers of Human-like-ness
 - *Character*: A reflection of ethical alignment and value-driven decisions, as framed by the agent’s biography and its experiences.
 - *Humanlike Adaptability*: The aspirational goal of creating agents that navigate ambiguity and context with greater nuance.
 
-<br><br>
+<p align=center><img src="https://drsezzer.github.io/willowbrook2.png" /><br>
+<small>DALLE-3 generated image of Willowbrook</small></p>
 
 Major work packages, and their findings:
 
