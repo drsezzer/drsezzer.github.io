@@ -65,6 +65,5 @@ title: Dr Sarah Mercer
 
 <hr>
 
-<div class="footer" align="center"><small>All rights are reserved for this webpage's content, same for uploaded PDFs unless otherwise stated within the document itself.  (c) 2024 Sarah Mercer.</small></div>
+<div align="center"><small>All rights are reserved for this webpage's content, same for uploaded PDFs unless otherwise stated within the document itself.  (c) 2024 Sarah Mercer.</small></div>
 
-<small><div class="footer" align="center">Web site generated using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), with [Jekyll](https://jekyllrb.com/) Theme [Midnight](https://github.com/pages-themes/midnight) and using the [jemoji](https://github.com/jekyll/jemoji) plugin ([emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)).</div></small>
