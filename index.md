@@ -60,3 +60,7 @@ title: Dr Sarah Mercer
 * Psychometric testing for generative agents.  Is it a good idea to use generative agents as replacement humans in social science?
 * Willowbrook baseline configuration; as an evaluation mechanism for new LLM models.
 * Unhappy Willowbrook :cry: :rage: - Can generative agents act upon their emotions?  [Research Proposal](rp_unhappy_willowbrook.md)
+
+<hr>
+
+<small>Web site generated using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), with [Jekyll](https://jekyllrb.com/) Theme Midnight with the jemoji plugin.</small>
