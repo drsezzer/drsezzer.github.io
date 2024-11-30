@@ -63,4 +63,4 @@ title: Dr Sarah Mercer
 
 <hr>
 
-<small>Web site generated using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), with [Jekyll](https://jekyllrb.com/) Theme Midnight with the jemoji plugin.</small>
+<small>Web site generated using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), with [Jekyll](https://jekyllrb.com/) Theme [Midnight](https://github.com/pages-themes/midnight) and using the [jemoji](https://github.com/jekyll/jemoji) plugin ([emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)).</small>

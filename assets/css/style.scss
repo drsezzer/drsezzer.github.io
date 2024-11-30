@@ -4,10 +4,22 @@
 @import "{{ site.theme }}";
 
 
-a.link {
+a {
   color: teal;
+}
+
+a.hover {
+  color: aquamarine;
 }
 
 h1 {
   color: teal;
+}
+
+h2 {
+  color: seagreen;
+}
+
+h3 {
+  color: coral;
 }
