@@ -65,5 +65,7 @@ title: Dr Sarah Mercer
 
 <hr>
 
-<div align="center"><small>All rights are reserved for this webpage's content, same for uploaded PDFs unless otherwise stated within the document itself.  (c) 2024 Sarah Mercer.</small></div>
+<div align="center"><small>All rights are reserved for this webpage's content, same for uploaded PDFs unless otherwise stated within the document itself. <br> (c) 2024 Sarah Mercer.</small>
+
+</div>
 
