@@ -3,20 +3,16 @@
 ---
 @import "{{ site.theme }}";
 
+// orginal theme: h1, h2, h3 = #e8e8e8
+// a = #ffcc00
+// a.hover = #ffeb9b
 
 a {
-  color: teal;
+  color: aqua;
 }
 
 a.hover {
   color: aquamarine;
 }
 
-h1 {
-  color: aquamarine;
-}
-
-h2 {
-  color: teal;
-}
 
