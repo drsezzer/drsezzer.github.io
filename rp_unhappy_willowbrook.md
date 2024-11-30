@@ -1,5 +1,5 @@
 ---
-title: Research Proposal - Unhappy Willowbrook, building social intelligence into LLM Agents.
+title: Research Proposal - Unhappy Willowbrook, building social intelligence into LLM Agents
 ---
 
 Within psychology, the sub-field of social intelligence comprises two core components, social awareness and social facility.  Social awareness refers to the capacity to understand and empathise with other’s emotions and perspectives, while social facility pertains to the ability to behave effectively in social situations.

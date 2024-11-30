@@ -1,6 +1,7 @@
 ---
 title: Layers of Human-like-ness
 ---
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Across my research, I explore how specific layers of humanlike behaviour can be designed and evaluated in generative agents. By focusing on measurable and interpretable aspects of personality, I aim to explore the realism and utility of these systems without overstating their capabilities. This is the layered framework I'm using to guide my research: </p>
 
 - *Biography*: The foundational input that shapes an agent’s knowledge, traits, and backstory.
