@@ -36,3 +36,4 @@ Major work packages, and their findings:
 
 - <b>Unhappy Willowbrook</b>: Exploring the ability of generative agents to retain and maintain information akin to their 'social awareness' and the degree to which this information can and should affect their actions and utterances, i.e. their social facility.  [ongoing, active research]
 
+[back](index.md)
