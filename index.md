@@ -57,7 +57,7 @@ title: Dr Sarah Mercer
 
 ### CETaS papers:
 
-* [Securing the UK's Research Eco-system](https://cetas.turing.ac.uk/), coming soon.
+* [Securing the UK's Research Eco-system](https://cetas.turing.ac.uk/), coming soon.  <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Unedited/draft Chapter2](raw_how_is_ai_different.md).
 * [Evaluating Malicious Generative AI Capabilities](https://cetas.turing.ac.uk/publications/evaluating-malicious-generative-ai-capabilities), Understanding inflection points in risk, July 2024.
 * [The Rapid Rise of Generative AI](https://cetas.turing.ac.uk/publications/rapid-rise-generative-ai), Assessing risks to safety and security, December 2023.
 
