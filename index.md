@@ -47,11 +47,11 @@ title: Dr Sarah Mercer
 
 * [Welcome to Willowbrook](https://cetas.turing.ac.uk/publications/welcome-willowbrook), The simulated society built by generative agents, December 2023.  <i>Not to be confused with <a href="https://www.technologyreview.com/2024/11/27/1107377/a-minecraft-town-of-ai-characters-made-friends-invented-jobs-and-spread-religion/">Meadowbrook</a>!</i> :thinking:
 
-### Cyber Security:
+### Cyber Security / Protective Security:
 
+* :new: [We Need to Talk About the Insider Risk from AI](https://rusi.org/explore-our-research/publications/commentary/we-need-talk-about-insider-risk-ai), 'Emerging threat: organisations face growing risks from artificial insiders as well as human ones.', 6th January 2025, RUSI.
 * [Generative AI in Cyber Security](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity), Assessing impact on current and future malicious software, June 2024. <br> 
 <i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[Formal PDF](docs/cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf) | <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Final (unedited) Draft](raw_malicious_genai.md)
-
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team, specifically Generative AI.</p>
 
