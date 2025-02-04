@@ -45,15 +45,20 @@ title: Dr Sarah Mercer
 
 ### Generative Agents:
 
-* [Welcome to Willowbrook](https://cetas.turing.ac.uk/publications/welcome-willowbrook), The simulated society built by generative agents, December 2023.  <i>Not to be confused with <a href="https://www.technologyreview.com/2024/11/27/1107377/a-minecraft-town-of-ai-characters-made-friends-invented-jobs-and-spread-religion/">Meadowbrook</a>!</i> :thinking:
+* [Welcome to Willowbrook](https://cetas.turing.ac.uk/publications/welcome-willowbrook), The simulated society built by generative agents, December 2023. 
 
 ### Cyber Security / Protective Security:
 
-* :new: [We Need to Talk About the Insider Risk from AI](https://rusi.org/explore-our-research/publications/commentary/we-need-talk-about-insider-risk-ai), 'Emerging threat: organisations face growing risks from artificial insiders as well as human ones.', 6th January 2025, RUSI.
+* [We Need to Talk About the Insider Risk from AI](https://rusi.org/explore-our-research/publications/commentary/we-need-talk-about-insider-risk-ai), 'Emerging threat: organisations face growing risks from artificial insiders as well as human ones.', 8th January 2025, RUSI.
 * [Generative AI in Cyber Security](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity), Assessing impact on current and future malicious software, June 2024. <br> 
 <i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[Formal PDF](docs/cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf) | <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Final (unedited) Draft](raw_malicious_genai.md)
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team, specifically Generative AI.</p>
+### Other bits:
+
+* :new: <i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[A Breif Analysis of DeepSeek-R1 and it's implications for Generative AI](deepseek-r1.pdf) a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025.
+
+<p></p>
+<p>Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team, specifically Generative AI.</p>
 
 ### CETaS papers:
 
