@@ -55,7 +55,7 @@ title: Dr Sarah Mercer
 
 ### Other bits:
 
-* :new: <i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[A Breif Analysis of DeepSeek-R1 and it's implications for Generative AI](deepseek-r1.pdf) a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025.
+* :new: &nbsp;&nbsp;[A Breif Analysis of DeepSeek-R1 and it's implications for Generative AI - arXiv](https://arxiv.org/abs/2502.02523) a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025.
 
 <p></p>
 <p>Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team, specifically Generative AI.</p>
