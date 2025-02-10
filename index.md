@@ -57,12 +57,14 @@ title: Dr Sarah Mercer
 
 * :new: &nbsp;&nbsp;[A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - arXiv](https://arxiv.org/abs/2502.02523) a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025.
 
+  * Just for the giggles: I asked ChatGPT-o1 Deep research to generate a similar report, here's its [paper](DeepResearch-DeepSeekR1_and_DeepSeekV3.pdf).
+
 <p></p>
 <p>Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team, specifically Generative AI.</p>
 
 ### CETaS papers:
 
-* [Securing the UK's Research Eco-system](https://cetas.turing.ac.uk/), coming soon.  <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Unedited/draft Chapter2](raw_how_is_ai_different.md).
+* [Securing the UK's Research Eco-system](https://cetas.turing.ac.uk/), coming soon.  <!-- <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Unedited/draft Chapter2](raw_how_is_ai_different.md). -->
 * [Evaluating Malicious Generative AI Capabilities](https://cetas.turing.ac.uk/publications/evaluating-malicious-generative-ai-capabilities), Understanding inflection points in risk, July 2024.
 * [The Rapid Rise of Generative AI](https://cetas.turing.ac.uk/publications/rapid-rise-generative-ai), Assessing risks to safety and security, December 2023.
 
@@ -77,7 +79,7 @@ title: Dr Sarah Mercer
 <div align="center">
 <small>All rights are reserved for the contents on this site (drsezzer.github.io), same for uploaded PDFs unless otherwise stated within the document itself. 
 
-<br> (c) 2024 Sarah Mercer.
+<br> (c) 2025 Sarah Mercer.
 
 <br><br>Web site generated using <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages</a> with <a href="https://jekyllrb.com/">Jekyll</a> Theme <a href="https://github.com/pages-themes/midnight">Midnight</a> and using the <a href="https://github.com/jekyll/jemoji">jemoji</a> plugin (<a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">emoji cheat sheet</a>).
 
