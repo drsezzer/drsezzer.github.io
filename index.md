@@ -55,7 +55,7 @@ title: Dr Sarah Mercer
 
 ### Other bits:
 
-* :new: &nbsp;&nbsp;[A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - arXiv](https://arxiv.org/abs/2502.02523) a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025.
+* &nbsp;&nbsp;[A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - arXiv](https://arxiv.org/abs/2502.02523) a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025.
 
   * Just for the giggles: I asked ChatGPT-o1 Deep research to generate a similar report, here's its [paper](DeepResearch-DeepSeekR1_and_DeepSeekV3.pdf).
 
@@ -64,7 +64,7 @@ title: Dr Sarah Mercer
 
 ### CETaS papers:
 
-* [Securing the UK's Research Eco-system](https://cetas.turing.ac.uk/), coming soon.  <!-- <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Unedited/draft Chapter2](raw_how_is_ai_different.md). -->
+* :new: [Securing the UK's Research Eco-system](https://cetas.turing.ac.uk/publications/securing-uks-ai-research-ecosystem), my contribution focused on how AI is different; what specific issues do UK academics need to think about to ensure their research is less vulnerable to those with hostile intent.   <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;Unedited/draft of[ why AI is different](raw_how_is_ai_different.md) (before word limits hit!).
 * [Evaluating Malicious Generative AI Capabilities](https://cetas.turing.ac.uk/publications/evaluating-malicious-generative-ai-capabilities), Understanding inflection points in risk, July 2024.
 * [The Rapid Rise of Generative AI](https://cetas.turing.ac.uk/publications/rapid-rise-generative-ai), Assessing risks to safety and security, December 2023.
 
