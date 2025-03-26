@@ -38,7 +38,7 @@ title: Dr Sarah Mercer
 &nbsp;&nbsp;&nbsp;&nbsp; A few people have asked me what a generative agent actually is, how they are implemented and the frameworks I use.  I don't use a framework, as I did not want an additional layer of abstraction between me and the LLM.  The key to designing a good persona-agent lies in it's initial biography and it's memory retention mechanism. I expand on this [here](agent_architecture.md).
 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Prior to working at the Turing, I was a researcher in Cyber Security.  The interest garnered by LLMs at the beginning of last year obviously had an impact on the cyber security community.  The paper below, was my attempt to bring some evidenced thinking to the fairly polarised (at the time) debate, given my familiarity of developing LLM based applications and intuition for their strengths and weaknesses.  <i>Note: Technical readers may prefer the unedited version of the paper, as linked below</i>.
+&nbsp;&nbsp;&nbsp;&nbsp; Prior to working at the Turing, I was a researcher in Cyber Security.  The interest garnered by LLMs at the beginning of 2023 obviously had an impact on the cyber security community.  The paper below, was my attempt to bring some evidenced thinking to the fairly polarised (at the time) debate, given my familiarity of developing LLM based applications and intuition for their strengths and weaknesses.  <i>Note: Technical readers may prefer the unedited version of the paper, as linked below</i>.
 
 
 ## Research Publications
@@ -51,13 +51,13 @@ title: Dr Sarah Mercer
 
 * Insider risk: 
   * [We Need to Talk About the Insider Risk from AI - short article](https://rusi.org/explore-our-research/publications/commentary/we-need-talk-about-insider-risk-ai), 'Emerging threat: organisations face growing risks from artificial insiders as well as human ones.', 8th January 2025, RUSI. 
-  * :new: [Final draft of longer paper](Insider_Risk.pdf), 19th March 2025.
+  * :new: &nbsp;&nbsp; [Final draft of longer paper](Insider_Risk.pdf), 19th March 2025.
 * [Generative AI in Cyber Security](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity), Assessing impact on current and future malicious software, June 2024. <br> 
 <i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[Formal PDF](docs/cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf) | <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Final (unedited) Draft](raw_malicious_genai.md)
 
 ### Other bits:
 
-* &nbsp;&nbsp;[A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - arXiv](https://arxiv.org/abs/2502.02523) a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025.
+* [A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - arXiv](https://arxiv.org/abs/2502.02523) a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025.
 
   * Just for the giggles: I asked ChatGPT-o1 Deep research to generate a similar report, here's its [paper](DeepResearch-DeepSeekR1_and_DeepSeekV3.pdf).
 
