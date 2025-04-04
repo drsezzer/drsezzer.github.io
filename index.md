@@ -73,7 +73,8 @@ title: Dr Sarah Mercer
 
 ## Current Projects:
 
-* Psychometric testing for generative agents.  Is it a good idea to use generative agents as replacement humans in social science?
+* Psychometric testing for generative agents.  Is it a good idea to use generative agents as replacement humans in social science? [HEXACO-Rep (public repo)](https://github.com/alan-turing-institute/hexaco-rep-public), [draft paper](https://github.com/alan-turing-institute/hexaco-rep-public/blob/main/Hexaco-25-04-04.pdf)
+
 * Willowbrook baseline configuration; as an evaluation mechanism for new LLM models.
 * Unhappy Willowbrook :cry: :rage: - Can generative agents act upon their emotions?  [Research Proposal](rp_unhappy_willowbrook.md)
 
