@@ -51,7 +51,8 @@ title: Dr Sarah Mercer
 
 * Insider risk: 
   * [We Need to Talk About the Insider Risk from AI - short article](https://rusi.org/explore-our-research/publications/commentary/we-need-talk-about-insider-risk-ai), 'Emerging threat: organisations face growing risks from artificial insiders as well as human ones.', 8th January 2025, RUSI. 
-  * :new: &nbsp;&nbsp; [Final draft of longer paper](Insider_Risk.pdf), 19th March 2025.
+  * :new: &nbsp;&nbsp; ['I'm Sorry Dave: How the old world of personnel security can inform the new world of AI insider risk' (preprint-v1) on arXiv](https://arxiv.org/abs/2504.00012), 26th March 2025.
+
 * [Generative AI in Cyber Security](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity), Assessing impact on current and future malicious software, June 2024. <br> 
 <i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[Formal PDF](docs/cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf) | <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Final (unedited) Draft](raw_malicious_genai.md)
 
