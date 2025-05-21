@@ -25,7 +25,7 @@ For the last year, my interactions with GenAI based coding tools like GitHub Cop
 
 *Autonomous Coding Agent (REPLIT):*
 
-Inspired or perhaps challenged by some recent podcasts which touted some even more impressive figures for autonomous coding agents, I decided to try Replit(link). I used the agent via their browser interface and free (Starter) trail. Falling back on something I knew, I tasked the agent with recreating the classic arcade game Pacman, directing it to use the pygame library. I assumed that the model would have knowledge of the classic game from its training data, so it's effectiveness wouldn't be necessarily linked to my ability to describe it. 
+Inspired or perhaps challenged by some recent podcasts which touted some even more impressive figures for autonomous coding agents, I decided to try [Replit Agent](https://replit.com/). I used the agent via their browser interface and free (Starter) trail. Falling back on something I knew, I tasked the agent with recreating the classic arcade game Pacman, directing it to use the pygame library. I assumed that the model would have knowledge of the classic game from its training data, so it's effectiveness wouldn't be necessarily linked to my ability to describe it. 
 
 Prompt: <i>“I would like you to recreate Pacman, in python using pygame library. I would like a nice object-oriented design, which incorporates, for example a ghost.py base class for inky, blinky, pinky and clyde to inherit from.”</i>
 
@@ -37,7 +37,7 @@ With this example the system showed little to no understanding of problems it wa
 
 *Cursor: Human-Based, Test-Driven Development!*
 
-My next experience, however, changed my thinking. Using Cursor, an environment based on VSCode, I tried again with the Pac-Man task. However, this time, instead of jumping in and writing it all, Cursor’s AI assistant encouraged me to adopt an incremental, step-by-step approach; the first step was to display Pacman and have him be controlled with the cursor keys. This system doesn’t try to run the code itself, instead it leaves running and evaluation to the user.
+My next experience, however, changed my thinking. Using Cursor [The AI Code Editor](https://www.cursor.com/), an environment based on VSCode, I tried again with the Pac-Man task. However, this time, instead of jumping in and writing it all, Cursor’s AI assistant encouraged me to adopt an incremental, step-by-step approach; the first step was to display Pacman and have him be controlled with the cursor keys. This system doesn’t try to run the code itself, instead it leaves running and evaluation to the user.
 
 What emerged was a collaborative dynamic which I'd describe as "human-based test-driven development." Each incremental piece of functionality; walls, ghosts, and interactions, was implemented by the AI, but tested and validated by me. Together we added the walls, pips, pills, the tunnel, the ghost hut and then one ghost at a time, with their specific pathfinding algorithms. The agent even suggested (asked) if Pinky's pathfinding algorithm should include the original [bug](http://donhodges.com/pacman_pinky_explanation.htm), where the location she targets is off by 4! Within a few hours we had a working version of Pacman, scores and all.
 
