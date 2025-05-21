@@ -62,6 +62,8 @@ title: Dr Sarah Mercer
 
   * Just for the giggles: I asked ChatGPT-o1 Deep research to generate a similar report, here's its [paper](DeepResearch-DeepSeekR1_and_DeepSeekV3.pdf).
 
+* [My thoughts on Coding Assistants](my_thoughts_coding_assistants.md) - a short piece on my first experience with Cursor, and how such tools are starting to impact (benefit) experienced coders.
+
 <p></p>
 <p>Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team, specifically Generative AI.</p>
 
