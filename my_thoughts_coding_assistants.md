@@ -6,7 +6,7 @@ title: Why Coding Assistants are more than vibe coding enablers
 
  - Coding assistants significantly speed up initial development phases.
  - Incremental, ‘human-based’ test driven development is currently most effective.
- - Good version control practices and clear, solid domain knowledge and strategic oversight remain critical.
+ - Good version control practices, solid domain knowledge and clear, strategic oversight remain critical.
  - Agents struggle with maintaining coherent style, design principals, and managing larger contexts – require human intervention.
 
 *Introduction:*
@@ -25,7 +25,7 @@ For the last year, my interactions with GenAI based coding tools like GitHub Cop
 
 *Autonomous Coding Agent (REPLIT):*
 
-Inspired or perhaps challenged by some recent podcasts which touted some even more impressive figures for autonomous coding agents, I decided to try [Replit Agent](https://replit.com/). I used the agent via their browser interface and free (Starter) trail. Falling back on something I knew, I tasked the agent with recreating the classic arcade game Pacman, directing it to use the pygame library. I assumed that the model would have knowledge of the classic game from its training data, so it's effectiveness wouldn't be necessarily linked to my ability to describe it. 
+Inspired or perhaps challenged by some recent podcasts which touted some even more impressive figures for autonomous coding agents, I decided to try [Replit Agent](https://replit.com/). I used the agent via their browser interface and free (Starter) trial. Falling back on something I knew, I tasked the agent with recreating the classic arcade game Pacman, directing it to use the pygame library. I assumed that the model would have knowledge of the classic game from its training data, so it's effectiveness wouldn't be necessarily linked to my ability to describe it. 
 
 Prompt: <i>“I would like you to recreate Pacman, in python using pygame library. I would like a nice object-oriented design, which incorporates, for example a ghost.py base class for inky, blinky, pinky and clyde to inherit from.”</i>
 
@@ -37,7 +37,7 @@ With this example the system showed little to no understanding of problems it wa
 
 *Cursor: Human-Based, Test-Driven Development!*
 
-My next experience, however, changed my thinking. Using Cursor [The AI Code Editor](https://www.cursor.com/), an environment based on VSCode, I tried again with the Pac-Man task. However, this time, instead of jumping in and writing it all, Cursor’s AI assistant encouraged me to adopt an incremental, step-by-step approach; the first step was to display Pacman and have him be controlled with the cursor keys. This system doesn’t try to run the code itself, instead it leaves running and evaluation to the user.
+My next experience, however, changed my thinking. Using Cursor [The AI Code Editor](https://www.cursor.com/), an environment based on VSCode, I tried again with the Pacman task. However, this time, instead of jumping in and writing it all, Cursor’s AI assistant encouraged me to adopt an incremental, step-by-step approach; the first step was to display Pacman and have him be controlled with the cursor keys. This system doesn’t try to run the code itself, instead it leaves running and evaluation to the user.
 
 What emerged was a collaborative dynamic which I'd describe as "human-based test-driven development." Each incremental piece of functionality; walls, ghosts, and interactions, was implemented by the AI, but tested and validated by me. Together we added the walls, pips, pills, the tunnel, the ghost hut and then one ghost at a time, with their specific pathfinding algorithms. The agent even suggested (asked) if Pinky's pathfinding algorithm should include the original [bug](http://donhodges.com/pacman_pinky_explanation.htm), where the location she targets is off by 4! Within a few hours we had a working version of Pacman, scores and all.
 
@@ -49,7 +49,7 @@ The way the cursor agent shaped the ‘collaboration’ meant that my role shift
 
 *Observations:*
 
-1.	Maintaining a clear vision of the intended functionality is vital (with Pacman that was easy). As the user’s role shifts from implementation to strategic direction. This way of working was, at first, quite alien to me... but didn’t take long to ‘let go’ of the code. A large part of that shift is linked to trust in the agents’ competence. In the case of Cursor, that trust built up fairly quickly given the first hour or so, during which time the agent generated solid, reliable code.
+1.	Maintaining a clear vision of the intended functionality is vital (with Pacman that was easy). As the user’s role shifts from implementation to strategic direction. This way of working was, at first, quite alien to me... but didn’t take long to ‘let go’ of the code. A large part of that shift is linked to trust in the agent's competence. In the case of Cursor, that trust built up fairly quickly given the first hour or so, during which time the agent generated solid, reliable code.
 
 2.	Occasionally, the AI stumbled, especially with more complex(subtle) bugs. It would often flick-flack between conflicting solutions or add unnecessary statements. Recognizing this downward spiral required careful judgment, and sufficient programming experience.
 
@@ -57,7 +57,7 @@ The way the cursor agent shaped the ‘collaboration’ meant that my role shift
 
 4.	Also linked to 2, is knowing when to Intervene: Crucially, my understanding of the problem space allowed me to identify precisely when to step in and stop the AI from making things worse, which would have resulted in a more messier and therefore increasingly fragile codebase.
 
-5.	Like other LLM based systems, Cursor wasn’t great at knowing when to give up. A lot like LLMs waxing lyrical when asked to describe a blank image[source]?. The system’s ability to know when to ask for help, is currently elusive.
+5.	Like other LLM based systems, Cursor wasn’t great at knowing when to give up. A lot like LLMs waxing lyrical when asked to [describe a blank image](https://bsky.app/profile/simonwillison.net/post/3lphx7dly6c2w). The system’s ability to know when to ask for help, is currently elusive.
 
 6.	Towards the end of the session, the agent seemed to get less accurate and therefore slightly less effective, I put this down to the code becoming too large, and although not hitting a system limit, it was likely hitting the LLMs context limits (for attention), for example if a fix required refactoring, it started to miss changes that should be made in other class/files.  Although, quick to fix, once highlighted.
 
@@ -71,16 +71,16 @@ The common analogy is that coding assistants are keen interns that can do the ba
 
 The new VSCode update ([release notes](https://code.visualstudio.com/updates/v1_100)), provides support to allow developers/users to specify their preferred coding standards and style preferences they expect the agents to adhere to. Whether this additional information distracts the LLM too much will be interesting to see.
 
-After my Pacman experience, I used cursor to rewrite Willowbrook - don't tell the bosses ;) I wanted a new simulation that ran faster. Using Cursor I created a new brand-new system, which centred around an event pump and async calls to the LLM. This system runs significantly faster than the previous version. Again, within a couple of days the simulation was running with nearly all the functionality of Willowbrook1 (which took significantly longer than two days to develop!) It took another day or so to 'take back' control and tidy the code. This task was less well known to the agent compared to Pacman, as was evident by the first few iterations of trying to pin down how to handle time passing in the simulation, but the programming concepts used; async calls in python (servicing events etc) would be fairly common within its training set.  Again, the number of runtime errors was small, the speed of incremental develop was impressive.  This time, Cursor added ideas into the code I had not considered; which I have left in to evaluate (hey, it’s research not production code!)
+After my Pacman experience, I used cursor to rewrite Willowbrook - don't tell the bosses ;) I wanted a new simulation that ran faster. Using Cursor I created a new system, which centred around an event pump and async calls to the LLM. This system runs significantly faster than the previous version. Again, within a couple of days the simulation was running with nearly all the functionality of Willowbrook1 (which took significantly longer than two days to develop!) It took another day or so to 'take back' control and tidy the code. This task was less well known to the agent compared to Pacman, as was evident by the first few iterations of trying to pin down how to handle time passing in the simulation, but the programming concepts used; async calls in python (servicing events etc) would be fairly common within its training set.  Again, the number of runtime errors was small, the speed of incremental develop was impressive.  This time, Cursor added ideas into the code I had not considered; which I have left in to evaluate (hey, it’s research not production code!)
 
 In both cases once the core design was implemented, and the code was taken back under my control, the way of working with the agent changed; small specific changes were requested, guiding the agent on how and where to make the changes, or asking the agent to describe the changes before making any alterations. Even then, committing often is a necessity, as occasionally the agent will decide a bigger change is required than I anticipated (often because of unclear directions or just because LLMs do that!).
 
-Conclusions/Key points:
+*Conclusions/Key points:*
 
-•	When starting something new, these agents can offer significant time savings at the start of a project.
-•	‘Human enable test driven development’ as a way of working is IMO the best strategy for getting the best out of the agents at the moment.
-•	Developers should try out these models on projects they are familiar with (but don’t forget to commit everything first!)
-•	If in a professional setting, the amount of effort put towards taking control of the code, should be the same level of effort you would dedicate verifying a 3rd party module of code or library randomly found on the internet! The responsibility for its correctness and conformance to non-functional requirements is with you.
+- When starting something new, these agents can offer significant time savings at the start of a project.
+- ‘Human enable test driven development’ as a way of working is IMO the best strategy for getting the best out of the agents at the moment.
+- Developers should try out these models on projects they are familiar with (but don’t forget to commit everything first!)
+- If in a professional setting, the amount of effort put towards taking control of the code, should be the same level of effort you would dedicate verifying a 3rd party module of code or library randomly found on the internet! The responsibility for its correctness and conformance to non-functional requirements is with you.
 
 21st May 2025,
 [Dr Sarah Mercer](index.md).
