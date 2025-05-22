@@ -59,7 +59,7 @@ The way the cursor agent shaped the ‘collaboration’ meant that my role shift
 
 5.	Like other LLM based systems, Cursor wasn’t great at knowing when to give up. A lot like LLMs waxing lyrical when asked to [describe a blank image](https://bsky.app/profile/simonwillison.net/post/3lphx7dly6c2w). The system’s ability to know when to ask for help, is currently elusive.
 
-6.	Towards the end of the session, the agent seemed to get less accurate and therefore slightly less effective, I put this down to the code becoming too large, and although not hitting a system limit, it was likely hitting the LLMs context limits (for attention), for example if a fix required refactoring, it started to miss changes that should be made in other class/files.  Although, quick to fix, once highlighted.
+6.	Towards the end of the session, the agent seemed to get less accurate and therefore slightly less effective, I put this down to the code becoming too large, and although not hitting a system limit, it was likely hitting the LLM's context limit (or associated attention issues), for example if a fix required refactoring it started to miss changes that should be made in other class/files.  Although quick to fix, once highlighted.
 
 7.	As it reached the limit described above, the need for me to step in and debug the system happened more often, which was made more difficult due to the unfamiliar code.  So, the process gets to the point where the user needs to 'take back' control/ownership of the code to enable better manual debugging for more complex problems.
 
@@ -78,7 +78,7 @@ In both cases once the core design was implemented, and the code was taken back 
 *Conclusions/Key points:*
 
 - When starting something new, these agents can offer significant time savings at the start of a project.
-- ‘Human enable test driven development’ as a way of working is IMO the best strategy for getting the best out of the agents at the moment.
+- ‘Human-based test driven development’ as a way of working is IMO the best strategy for getting the best out of the agents at the moment.
 - Developers should try out these models on projects they are familiar with (but don’t forget to commit everything first!)
 - If in a professional setting, the amount of effort put towards taking control of the code, should be the same level of effort you would dedicate verifying a 3rd party module of code or library randomly found on the internet! The responsibility for its correctness and conformance to non-functional requirements is with you.
 
