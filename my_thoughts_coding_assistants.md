@@ -7,7 +7,7 @@ title: Why Coding Assistants are more than vibe coding enablers
  - Coding assistants significantly speed up initial development phases.
  - Incremental, ‘human-based’ test driven development is currently most effective.
  - Good version control practices, solid domain knowledge and clear, strategic oversight remain critical.
- - Agents struggle with maintaining coherent style, design principals, and managing larger contexts – require human intervention.
+ - Agents struggle with maintaining coherent style, design principles, and managing larger contexts – require human intervention.
 
 *Introduction:*
 
