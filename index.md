@@ -46,18 +46,18 @@ title: Dr Sarah Mercer
 ### Generative Agents / Simulated Societies:
 
 * [Welcome to Willowbrook](https://cetas.turing.ac.uk/publications/welcome-willowbrook), The simulated society built by generative agents, December 2023.  [PDF](cetas_expert_analysis_-_welcome_to_willowbrook.pdf)
-* [Return to Willowbrook: Inside the Minds of Generative Agents](return_to_willowbrook.md), re-engineering Willowbrook to explore how psychologically rich the agents can be! [Final draft](return_to_willowbrook.md)
+* [Return to Willowbrook: Inside the Minds of Generative Agents](return_to_willowbrook.md), re-engineering Willowbrook to explore how psychologically rich the agents can be! [Final draft](willowbrook2.md)
 
 ### Cyber Security / Protective Security:
 
 * Insider risk: 
   * [We Need to Talk About the Insider Risk from AI - short article](https://rusi.org/explore-our-research/publications/commentary/we-need-talk-about-insider-risk-ai), 'Emerging threat: organisations face growing risks from artificial insiders as well as human ones.', 8th January 2025, RUSI. 
-  * ['I'm Sorry Dave: How the old world of personnel security can inform the new world of AI insider risk' (preprint-v1) on arXiv](https://arxiv.org/abs/2504.00012), updated 5th April 2025.
-  * :new: &nbsp;&nbsp; [How Personnel Security can Inform the New World of AI Insider Risk](https://doi.org/10.1080/03071847.2025.2550122), RUSI Journal article, 6th October 2025.
+  * ['I'm Sorry Dave: How the old world of personnel security can inform the new world of AI insider risk' preprint on arXiv](https://arxiv.org/abs/2504.00012), updated 5th April 2025.
+  * *new* [How Personnel Security can Inform the New World of AI Insider Risk](https://doi.org/10.1080/03071847.2025.2550122), RUSI Journal article, 6th October 2025.
 
 
 * [Generative AI in Cyber Security](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity), Assessing impact on current and future malicious software, June 2024. <br> 
-<i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[Formal PDF](cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf) | <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Final (unedited) Draft](raw_malicious_genai.md)
+<i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[Formal PDF](cetas_briefing_paper_-_generative_ai_in_cybersecurity.pdf) | <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Final (unedited) Draft](raw_malicious_genai.md)
 
 ### Other bits:
 
