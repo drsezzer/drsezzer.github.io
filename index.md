@@ -43,24 +43,25 @@ title: Dr Sarah Mercer
 
 ## Research Publications
 
-### Generative Agents:
+### Generative Agents / Simulated Societies:
 
-* [Welcome to Willowbrook](https://cetas.turing.ac.uk/publications/welcome-willowbrook), The simulated society built by generative agents, December 2023. 
+* [Welcome to Willowbrook](https://cetas.turing.ac.uk/publications/welcome-willowbrook), The simulated society built by generative agents, December 2023.  [PDF](cetas_expert_analysis_-_welcome_to_willowbrook.pdf)
+* [Return to Willowbrook: Inside the Minds of Generative Agents](return_to_willowbrook.md), re-engineering Willowbrook to explore how psychologically rich the agents can be! [Final draft](return_to_willowbrook.md)
 
 ### Cyber Security / Protective Security:
 
 * Insider risk: 
   * [We Need to Talk About the Insider Risk from AI - short article](https://rusi.org/explore-our-research/publications/commentary/we-need-talk-about-insider-risk-ai), 'Emerging threat: organisations face growing risks from artificial insiders as well as human ones.', 8th January 2025, RUSI. 
-  * :new: &nbsp;&nbsp; ['I'm Sorry Dave: How the old world of personnel security can inform the new world of AI insider risk' (preprint-v1) on arXiv](https://arxiv.org/abs/2504.00012), 26th March 2025.
+  * ['I'm Sorry Dave: How the old world of personnel security can inform the new world of AI insider risk' (preprint-v1) on arXiv](https://arxiv.org/abs/2504.00012), updated 5th April 2025.
+  * :new: &nbsp;&nbsp; [How Personnel Security can Inform the New World of AI Insider Risk](https://doi.org/10.1080/03071847.2025.2550122), RUSI Journal article, 6th October 2025.
+
 
 * [Generative AI in Cyber Security](https://cetas.turing.ac.uk/publications/generative-ai-cybersecurity), Assessing impact on current and future malicious software, June 2024. <br> 
-<i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[Formal PDF](docs/cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf) | <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Final (unedited) Draft](raw_malicious_genai.md)
+<i class="fa-solid fa-file-pdf"></i>&nbsp;&nbsp;[Formal PDF](cetas_briefing_paper_-_evaluating_malicious_generative_ai_capabilities.pdf) | <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;[Final (unedited) Draft](raw_malicious_genai.md)
 
 ### Other bits:
 
-* [A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - arXiv](https://arxiv.org/abs/2502.02523) a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025.
-
-  * Just for the giggles: I asked ChatGPT-o1 Deep research to generate a similar report, here's its [paper](DeepResearch-DeepSeekR1_and_DeepSeekV3.pdf).
+* [A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - arXiv](https://arxiv.org/abs/2502.02523) a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025, [China’s AI Evolution: DeepSeek and National Security - CETaS article](https://cetas.turing.ac.uk/publications/chinas-ai-evolution-deepseek-and-national-security), 7th February 2025.
 
 * [My thoughts on Coding Assistants](my_thoughts_coding_assistants.md) - a short piece on my first experience with Cursor, and how such tools are starting to impact (benefit) experienced coders.
 
@@ -75,10 +76,11 @@ title: Dr Sarah Mercer
 
 ## Current Projects:
 
-* Psychometric testing for generative agents.  Is it a good idea to use generative agents as replacement humans in social science? [HEXACO-Rep (public repo)](https://github.com/alan-turing-institute/hexaco-rep-public), [draft paper](https://github.com/alan-turing-institute/hexaco-rep-public/blob/main/Hexaco-25-04-04.pdf)
+* [Applying Psychometrics to Large Language Model Simulated Populations: Recreating the HEXACO Personality Inventory Experiment with Generative Agents - preprint on arXiv](https://arxiv.org/abs/2508.00742), 1st August 2025, psychometric testing for generative agents.  Is it a good idea to use generative agents as replacement humans in social science? 
 
-* Willowbrook baseline configuration; as an evaluation mechanism for new LLM models.
-* Unhappy Willowbrook :cry: :rage: - Can generative agents act upon their emotions?  [Research Proposal](rp_unhappy_willowbrook.md)
+   * [Patterns, Not People: Personality Structures in LLM-powered Persona Agents - CETaS Expert analysis](https://cetas.turing.ac.uk/publications/patterns-not-people-personality-structures-llm-powered-persona-agents), 1st October 2025.
+
+* [Return to Willowbrook: Insider the Minds of Generative Agents](willowbrook_return.md), October 2025, Can generative agents move beyond polite imitation and become psychologically rich?  [Original research proposal](rp_unhappy_willowbrook.md).
 
 <hr>
 
