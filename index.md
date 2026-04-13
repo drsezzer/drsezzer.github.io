@@ -6,7 +6,7 @@ title: Dr Sarah Mercer
       <img src="https://drsezzer.github.io/profile_pic.png" />
     </div>
     <div class="sm_child2">
-      Hi! I'm Sarah, a Software Engineer (ex Principal Researcher at The Alan Turing Institute) interested in the intersection of agents and generative AI. 
+      Hi! I'm Sarah, a Software Engineer (formerly Principal Researcher at The Alan Turing Institute) working at the intersection of generative AI and agent-based systems. 
     </div>
 </div>
 
@@ -19,19 +19,19 @@ title: Dr Sarah Mercer
 </p>
 <hr>
 
-&nbsp;&nbsp;&nbsp;&nbsp; The propensity of LLMs to portray humanlike behaviour fascinates me.  Since the publication of the <a href="https://cetas.turing.ac.uk/publications/welcome-willowbrook">Willowbrook</a> report, I have continued to explore the capacity of generative agents to mimic human behaviour... exploring their ability to maintain believable and consistent personas, their capacity to make human-like mistakes, and their (in)ability to get angry!
+&nbsp;&nbsp;&nbsp;&nbsp; The propensity of LLMs to portray human-like behaviour fascinates me.  Since the publication of the <a href="https://cetas.turing.ac.uk/publications/welcome-willowbrook">Willowbrook</a> report, I have continued to explore the capacity of generative agents to mimic human behaviour... exploring their ability to maintain believable and consistent personas, their capacity to make human-like mistakes, and their (in)ability to get angry!
 
 
 <p align=center><img src="https://drsezzer.github.io/willowbrook1.png" /><br>
 <small>DALLE-3 generated image of Willowbrook</small></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp; Inspired by the Stanford <a href="https://hai.stanford.edu/news/computational-agents-exhibit-believable-humanlike-behavior">Smallville paper</a>, a simulation comprising 12 characters and 10 locations - including a library, cafe, farm shop, village green and various residences - was developed to further explore the capacity of generative-agents to [portray human like behaviours](layers.md).
+&nbsp;&nbsp;&nbsp;&nbsp; Inspired by the Stanford <a href="https://hai.stanford.edu/news/computational-agents-exhibit-believable-humanlike-behavior">Smallville paper</a>, a simulation comprising 12 characters and 10 locations - including a library, cafe, farm shop, village green and various residences - was developed to further explore the capacity of generative agents to [portray human-like behaviours](layers.md).
 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Unlike Smallville, the Willowbrook simulation does not maintain a shared representation of the agents' environment, meaning that the agents' reality is purely LLM generated (with the exception of the initial character and location descriptions).  This reality is held within each agent's memory of what they observed, did and heard. As such, any error in the way the LLM is directing the agents is magnified as the simulation progresses and the agents' memories of such inaccuracies are retained, or even acted upon.  This gives us a novel way to evaluate the influence different LLM models have on the lives of the Willowbrook residents.
+&nbsp;&nbsp;&nbsp;&nbsp; Unlike Smallville, the Willowbrook simulation does not maintain a shared representation of the agents' environment, meaning that the agents' reality is purely LLM generated (with the exception of the initial character and location descriptions).  This reality is held within each agent's memory of what they observed, did and heard. As such, any error in the way the LLM is directing the agents is magnified as the simulation progresses and the agents' memories of such inaccuracies are retained, or even acted upon.  This provides a novel way to evaluate how different LLMs influence the lives of the Willowbrook residents.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp; A few people have asked me what a generative agent actually is, how they are implemented and the frameworks I use.  I don't use a framework, as I did not want an additional layer of abstraction between me and the LLM.  The key to designing a good persona-agent lies in it's initial biography and it's memory retention mechanism. I expand on this [here](agent_architecture.md).
+&nbsp;&nbsp;&nbsp;&nbsp; A common question is how generative agents are implemented and what frameworks are used.  I don't use a framework, as I wanted to avoid introducing an additional layer of abstraction between the system and the underlying model.  The key to designing a good persona-agent lies in its initial biography and its memory retention mechanism. 
 
 
 ## Research Publications
@@ -42,10 +42,10 @@ title: Dr Sarah Mercer
 [Online](https://cetas.turing.ac.uk/publications/welcome-willowbrook) | 
 [PDF](cetas_expert_analysis_-_welcome_to_willowbrook.pdf)
 
-* Applying Psychometrics to Large Language Model Simulated Populations: Recreating the HEXACO Personality Inventory Experiment with Generative Agents, 1st August 2025, psychometric testing for generative agents.  Is it a good idea to use generative agents as replacement humans in social science? <br>
+* Applying Psychometrics to Large Language Model Simulated Populations: Recreating the HEXACO Personality Inventory Experiment with Generative Agents, August 2025, psychometric testing for generative agents.  Is it a good idea to use generative agents as replacement humans in social science? <br>
 [arXiv](https://arxiv.org/abs/2508.00742) | [PDF??]()
 
-   * Patterns, Not People: Personality Structures in LLM-powered Persona Agents, 1st October 2025. <br>
+   * Patterns, Not People: Personality Structures in LLM-powered Persona Agents, October 2025. <br>
    [Online](https://cetas.turing.ac.uk/publications/patterns-not-people-personality-structures-llm-powered-persona-agents)
 
 * Return to Willowbrook: Inside the Minds of Generative Agents, October 2025, can generative agents move beyond polite imitation and become psychologically rich? <br>
@@ -65,19 +65,19 @@ Prior to working at the Turing, I was a researcher in Cyber Security.  The inter
 
 
 * Insider risk: 
-  * 'We Need to Talk About the Insider Risk from AI' short article, 8th January 2025, RUSI. <br> 
+  * 'We Need to Talk About the Insider Risk from AI' short article, January 2025, RUSI. <br> 
   [Online](https://rusi.org/explore-our-research/publications/commentary/we-need-talk-about-insider-risk-ai).
-  * 'I'm Sorry Dave: How the old world of personnel security can inform the new world of AI insider risk', updated 5th April 2025. <br>
+  * 'I'm Sorry Dave: How the old world of personnel security can inform the new world of AI insider risk', updated April 2025. <br>
   [arXiv](https://arxiv.org/abs/2504.00012)
-  * How Personnel Security can Inform the New World of AI Insider Risk, RUSI Journal article, 6th October 2025. <br>
+  * How Personnel Security can Inform the New World of AI Insider Risk, RUSI Journal article, October 2025. <br>
   [Online](https://doi.org/10.1080/03071847.2025.2550122) | [PDF](AI_Insider_Risk.pdf)
 
 
 ### Other Topics:
 
-* A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025. <br> [arXiv](https://arxiv.org/abs/2502.02523)
+* A Brief Analysis of DeepSeek-R1 and its implications for Generative AI - a quick turnaround report covering the release of DeepSeek's R1 model and the implications on the wider ecosystem, February 2025. <br> [arXiv](https://arxiv.org/abs/2502.02523)
 
-  * China’s AI Evolution: DeepSeek and National Security - CETaS Expert Analysis, 7th February 2025. <br>
+  * China’s AI Evolution: DeepSeek and National Security - CETaS Expert Analysis, February 2025. <br>
   [Online](https://cetas.turing.ac.uk/publications/chinas-ai-evolution-deepseek-and-national-security) | [Final Draft (no spin)]()
 
 * [My thoughts on Coding Assistants](my_thoughts_coding_assistants.md) - a short piece on my first experience with Cursor, and my thoughts on how such tools are starting to impact (benefit) experienced software developers.
@@ -86,7 +86,7 @@ Prior to working at the Turing, I was a researcher in Cyber Security.  The inter
 
 <p>Alongside my own research looking at the human like capacity of generative agents, I also provided technical expertise to the CETaS team, specifically Generative AI.</p>
 
-* [Securing the UK's Research Eco-system](https://cetas.turing.ac.uk/publications/securing-uks-ai-research-ecosystem), my contribution focused on how AI is different; what specific issues do UK academics need to think about to ensure their research is less vulnerable to those with hostile intent.   <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;Unedited/draft of[ why AI is different](raw_how_is_ai_different.md) (before word limits hit!).
+* [Securing the UK's Research Ecosystem](https://cetas.turing.ac.uk/publications/securing-uks-ai-research-ecosystem), my contribution focused on how AI is different; what specific issues do UK academics need to think about to ensure their research is less vulnerable to those with hostile intent.   <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;Unedited/draft of [why AI is different](raw_how_is_ai_different.md) (before word limits hit!).
 * [Evaluating Malicious Generative AI Capabilities](https://cetas.turing.ac.uk/publications/evaluating-malicious-generative-ai-capabilities), Understanding inflection points in risk, July 2024.
 * [The Rapid Rise of Generative AI](https://cetas.turing.ac.uk/publications/rapid-rise-generative-ai), Assessing risks to safety and security, December 2023.
 
