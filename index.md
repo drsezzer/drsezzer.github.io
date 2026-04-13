@@ -75,16 +75,16 @@ Prior to working at the Turing, I was a researcher in Cyber Security.  The inter
 
 ### Other Topics:
 
-* A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025. <br> [arXiv](https://arxiv.org/abs/2502.02523) | 
+* A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025. <br> [arXiv](https://arxiv.org/abs/2502.02523)
+
   * China’s AI Evolution: DeepSeek and National Security - CETaS Expert Analysis, 7th February 2025. <br>
   [Online](https://cetas.turing.ac.uk/publications/chinas-ai-evolution-deepseek-and-national-security) | [Final Draft (no spin)]()
 
 * [My thoughts on Coding Assistants](my_thoughts_coding_assistants.md) - a short piece on my first experience with Cursor, and my thoughts on how such tools are starting to impact (benefit) experienced software developers.
 
-
 ### CETaS papers:
 
-<p>Alongside my own research looking at the human like capacity of generative agents, I also provide technical expertise to the CETaS team, specifically Generative AI.</p>
+<p>Alongside my own research looking at the human like capacity of generative agents, I also provided technical expertise to the CETaS team, specifically Generative AI.</p>
 
 * [Securing the UK's Research Eco-system](https://cetas.turing.ac.uk/publications/securing-uks-ai-research-ecosystem), my contribution focused on how AI is different; what specific issues do UK academics need to think about to ensure their research is less vulnerable to those with hostile intent.   <i class="fa-solid fa-pen-ruler"></i>&nbsp;&nbsp;Unedited/draft of[ why AI is different](raw_how_is_ai_different.md) (before word limits hit!).
 * [Evaluating Malicious Generative AI Capabilities](https://cetas.turing.ac.uk/publications/evaluating-malicious-generative-ai-capabilities), Understanding inflection points in risk, July 2024.
