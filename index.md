@@ -15,11 +15,7 @@ title: Dr Sarah Mercer
 <hr>
 <p valign="center" align="center">
 <big><i class="fa-brands fa-square-github"></i></big>&nbsp;&nbsp;<a href="https://github.com/drsezzer/">drsezzer</a> |
-<big><i class="fa-brands fa-bluesky"></i></big>&nbsp;&nbsp;<a href="https://bsky.app/profile/drsezzer.bsky.social">@drsezzer.bsky.social</a> |
-<big><i class="fa-brands fa-square-x-twitter"></i></big>&nbsp;&nbsp;<a href="https://twitter.com/fanofjavi">@FanOfJavi</a> | 
 <big><i class="fa-brands fa-linkedin"></i></big>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sarah-mercer-033609273">Sarah Mercer</a>
-<br>
-<big><i class="fa-solid fa-envelope"></i></big>&nbsp;&nbsp;smercer[at]turing.ac.uk
 </p>
 <hr>
 
@@ -47,10 +43,10 @@ title: Dr Sarah Mercer
 [PDF](cetas_expert_analysis_-_welcome_to_willowbrook.pdf)
 
 * Applying Psychometrics to Large Language Model Simulated Populations: Recreating the HEXACO Personality Inventory Experiment with Generative Agents, 1st August 2025, psychometric testing for generative agents.  Is it a good idea to use generative agents as replacement humans in social science? <br>
-[preprint on arXiv](https://arxiv.org/abs/2508.00742) | [PDF]()
+[arXiv](https://arxiv.org/abs/2508.00742) | [PDF??]()
 
    * Patterns, Not People: Personality Structures in LLM-powered Persona Agents, 1st October 2025. <br>
-   [Online](https://cetas.turing.ac.uk/publications/patterns-not-people-personality-structures-llm-powered-persona-agents).
+   [Online](https://cetas.turing.ac.uk/publications/patterns-not-people-personality-structures-llm-powered-persona-agents)
 
 * Return to Willowbrook: Inside the Minds of Generative Agents, October 2025, can generative agents move beyond polite imitation and become psychologically rich? <br>
 [Online](https://cetas.turing.ac.uk/publications/return-willowbrook-inside-minds-generative-agents) | 
@@ -69,17 +65,21 @@ Prior to working at the Turing, I was a researcher in Cyber Security.  The inter
 
 
 * Insider risk: 
-  * 'We Need to Talk About the Insider Risk from AI' short article, 8th January 2025, RUSI.  [Online](https://rusi.org/explore-our-research/publications/commentary/we-need-talk-about-insider-risk-ai).
-  * 'I'm Sorry Dave: How the old world of personnel security can inform the new world of AI insider risk', updated 5th April 2025. [Online](https://arxiv.org/abs/2504.00012)
-  * How Personnel Security can Inform the New World of AI Insider Risk, RUSI Journal article, 6th October 2025. [Online](https://doi.org/10.1080/03071847.2025.2550122) | [PDF](AI_Insider_Risk.pdf)
+  * 'We Need to Talk About the Insider Risk from AI' short article, 8th January 2025, RUSI. <br> 
+  [Online](https://rusi.org/explore-our-research/publications/commentary/we-need-talk-about-insider-risk-ai).
+  * 'I'm Sorry Dave: How the old world of personnel security can inform the new world of AI insider risk', updated 5th April 2025. <br>
+  [arXiv](https://arxiv.org/abs/2504.00012)
+  * How Personnel Security can Inform the New World of AI Insider Risk, RUSI Journal article, 6th October 2025. <br>
+  [Online](https://doi.org/10.1080/03071847.2025.2550122) | [PDF](AI_Insider_Risk.pdf)
 
 
 ### Other Topics:
 
-* [A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - arXiv](https://arxiv.org/abs/2502.02523) a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025. 
-  * [China’s AI Evolution: DeepSeek and National Security - CETaS article](https://cetas.turing.ac.uk/publications/chinas-ai-evolution-deepseek-and-national-security), 7th February 2025.
+* A Breif Analysis of DeepSeek-R1 and its implications for Generative AI - a quick turn-around report covering the release of DeepSeek's R1 model and the implications on the wider eco-system, 3rd February 2025. <br> [arXiv](https://arxiv.org/abs/2502.02523) | 
+  * China’s AI Evolution: DeepSeek and National Security - CETaS Expert Analysis, 7th February 2025. <br>
+  [Online](https://cetas.turing.ac.uk/publications/chinas-ai-evolution-deepseek-and-national-security) | [Final Draft (no spin)]()
 
-* [My thoughts on Coding Assistants](my_thoughts_coding_assistants.md) - a short piece on my first experience with Cursor, and how such tools are starting to impact (benefit) experienced coders.
+* [My thoughts on Coding Assistants](my_thoughts_coding_assistants.md) - a short piece on my first experience with Cursor, and my thoughts on how such tools are starting to impact (benefit) experienced software developers.
 
 
 ### CETaS papers:
